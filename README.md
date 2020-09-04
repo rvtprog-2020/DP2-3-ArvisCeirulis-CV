@@ -21,5 +21,5 @@
 ## **Kāpēc tieši mani?**  
 **Arguments 1:** Es tikko uztaisīju šo CV markdown  
 **Arguments 2:** Es pagājušo gadu iemācijos izmantot blokshēmas  
-**Arguments 3:** Es pitonā māku izmantot def un if-then komandas
-**Arguments 4:** Es esmu resns un ja sāksies bads es būšu vienīgais darbinieks kas izdzīvos
+**Arguments 3:** Es pitonā māku izmantot def un if-then komandas  
+**Arguments 4:** Es esmu resns un ja sāksies bads es būšu vienīgais darbinieks kas izdzīvos  
