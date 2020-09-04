@@ -1,2 +1,2 @@
-# <p align=center>Mans CV</p>
+# ->**Mans CV**<-
 # <h2>Manas prasmes</h2>
