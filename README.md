@@ -1,4 +1,4 @@
-# **CV** ![alt text](Renart.jpg =100x100) 
+# **CV** ![alt text](Renart.jpg | width=100) 
 ## **Pamata info**
 **Vārds:** Arvis    
 **Uzvārds:** Ceirulis  
