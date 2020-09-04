@@ -7,7 +7,7 @@
 **Numurs:** *371 27050800*  
 **Discord:** *Arvis Ceirulis#7581*
   
-![image](Renart.jpg "Bilde" {width=50px height=150px})
+![image](Renart.jpg "Renart.jpg" {width=50px height=150px})
   
   
 ## **Prasmes**  
