@@ -1,4 +1,5 @@
-# **CV** ![alt text](Renart.jpg | width=100) 
+# **CV** 
+<img src="Renart.jpg" width"20%">![alt text](Renart.jpg) 
 ## **Pamata info**
 **Vārds:** Arvis    
 **Uzvārds:** Ceirulis  
