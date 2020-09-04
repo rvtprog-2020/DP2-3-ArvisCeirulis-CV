@@ -1,18 +1,18 @@
 # **CV**  
 ## **Pamata info**
   
-**Vārds:** Arvis      
+**Vārds:** Arvis  
 **Uzvārds:** Ceirulis  
 **Dzīvesvieta:** Rīga, Latvija  
 **Numurs:** *371 27050800*  
 **Discord:** *Arvis Ceirulis#7581*
   
-<img src="Renart.jpg" width="15%">  
+![image](Renat.jpg = 50x50)
   
   
 ## **Prasmes**  
 **Draudziba:** es ar visiem draudzējos  
-**Mati:** man visur aug mati
+**Mati:** man visur aug mati  
   
 ## **Pieredze**  
 **Darbs:** Kautkāds rimi darbs kur bija jākrāmē augļi  
