@@ -1,2 +1,6 @@
-# ->**Mans CV**<-
-## ->Manas prasmes<-
+# ->**Mans CV**<-  
+## ->Manas pamata info<-  
+**Vārds:** Arvis    
+**Uzvārds:** Ceirulis  
+**Dzīvesvieta:** Rīga, Latvija
+   
