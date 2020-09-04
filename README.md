@@ -1,5 +1,5 @@
-# ->**Mans CV**<-  
-## ->Manas pamata info<-  
+**->Mans CV<-**  
+->Mans pamata info<-  
 **Vārds:** Arvis    
 **Uzvārds:** Ceirulis  
 **Dzīvesvieta:** Rīga, Latvija
