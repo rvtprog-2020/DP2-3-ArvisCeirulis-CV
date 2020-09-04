@@ -12,3 +12,6 @@
 ### **Pieredze**  
 **Darbs:** Kautkāds rimi darbs kur bija jākrāmē augļi  
 **Programmēšana:** Es taisīju minecraft serveri  
+### **Kāpēc tieši mani?**  
+**Arguments 1:** Es tikko uztaisīju šo CV markdown  
+**Arguments 2:** Es pagājušo gadu iemācijos izmantot blokshēmas  
