@@ -10,5 +10,5 @@
 **Draudziba:** es ar visiem draudzējos  
 **Mati:** man visur aug mati
 ## **Pieredze**  
-**Darbs:** Kautkāds rimi darbs kur bija jākrāmē augļi
-**Programmēšana:** Es taisīju minecraft serveri
+**Darbs:** Kautkāds rimi darbs kur bija jākrāmē augļi  
+**Programmēšana:** Es taisīju minecraft serveri  
