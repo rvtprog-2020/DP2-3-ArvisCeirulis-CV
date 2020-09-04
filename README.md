@@ -4,4 +4,4 @@
 **Uzvārds:** Ceirulis  
 **Dzīvesvieta:** Rīga, Latvija  
 
-![alt text](Renart.jpg){width: 100px;}
+![alt text](Renart.jpg {width: 100px;})
