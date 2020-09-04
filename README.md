@@ -1,11 +1,12 @@
 # **CV**  
 ## **Pamata info**
-<img src="Renart.jpg" width="10%">  
   
 **Vārds:** Arvis      
 **Uzvārds:** Ceirulis  
 **Dzīvesvieta:** Rīga, Latvija  
 **Numurs:** *371 27050800*  
+<img src="Renart.jpg" width="10%">  
+  
   
 ## **Prasmes**  
 **Draudziba:** es ar visiem draudzējos  
