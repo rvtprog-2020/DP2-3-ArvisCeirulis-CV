@@ -1,9 +1,8 @@
-# **CV** 
-<img src="Renart.jpg" width="20%">
+# **CV**  <img src="Renart.jpg" width="10%">
 
 ## **Pamata info**  
 **Vārds:** Arvis      
 **Uzvārds:** Ceirulis  
 **Dzīvesvieta:** Rīga, Latvija  
-## **Prasmes&**  
+## **Prasmes**  
 **prasme 1:** info    
